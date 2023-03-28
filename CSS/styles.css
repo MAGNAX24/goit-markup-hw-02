@@ -1,0 +1,22 @@
+button[type=button]{
+    background-color: #2196F3;
+}
+ nav a{
+    color: #dd0000;
+ }
+
+ body{
+    font-family: 'Roboto', sans-serif;
+ }
+
+ nav{
+    font-family: 'Raleway', sans-serif;
+ }
+
+ body a{
+    color: #2196F3;
+ }
+
+ button{
+    font-family: 'Roboto', sans-serif;
+ }
